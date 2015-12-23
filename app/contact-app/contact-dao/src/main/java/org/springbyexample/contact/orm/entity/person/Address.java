@@ -23,7 +23,7 @@ import org.springbyexample.contact.orm.entity.AbstractVersionedEntity;
 /**
  * Annotation configured address bean.
  * 
- * @author David Winterfeldt
+ * @author Ajay Jirati--- Master
  */
 @Entity
 public class Address extends AbstractVersionedEntity {

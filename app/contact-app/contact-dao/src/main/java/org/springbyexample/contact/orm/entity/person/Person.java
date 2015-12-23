@@ -33,7 +33,7 @@ import org.springbyexample.contact.orm.entity.AbstractVersionedEntity;
 /**
  * Annotation configured person bean.
  * 
- * @author David Winterfeldt
+ * @author Ajay Jirati--- Master
  */
 @Entity
 @Inheritance(strategy = InheritanceType.JOINED)
