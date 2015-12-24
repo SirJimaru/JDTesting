@@ -20,7 +20,11 @@ package org.springbyexample.validation;
 /**
  * Age check.
  *
+<<<<<<< HEAD
  * @author Ajay Jirati Second testing 
+=======
+ * @author Ajay Jirati - Master Conflict Testing 
+>>>>>>> upstream/master
  */
 public interface AgeCheck {
 
