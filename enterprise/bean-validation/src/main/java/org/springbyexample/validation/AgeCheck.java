@@ -20,7 +20,7 @@ package org.springbyexample.validation;
 /**
  * Age check.
  *
- * @author David Winterfeldt
+ * @author Ajay Jirati - Master Conflict Testing 
  */
 public interface AgeCheck {
 
