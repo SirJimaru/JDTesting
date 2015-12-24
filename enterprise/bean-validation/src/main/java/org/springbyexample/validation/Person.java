@@ -22,7 +22,7 @@ import javax.validation.constraints.NotNull;
 /**
  * Person bean.
  *
- * @author David Winterfeldt
+ * @author Ajay Jirati Second testing
  */
 public class Person {
 
