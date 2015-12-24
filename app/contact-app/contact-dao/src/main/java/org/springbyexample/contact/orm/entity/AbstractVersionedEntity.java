@@ -22,7 +22,7 @@ import javax.persistence.Version;
 /**
  * Abstract auditable and optimistic lock enabled entity.
  * 
- * @author David Winterfeldt
+ * @author Himanshu Sharma
  */
 @MappedSuperclass
 @SuppressWarnings("serial")

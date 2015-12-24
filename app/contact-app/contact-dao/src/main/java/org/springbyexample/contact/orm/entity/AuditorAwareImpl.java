@@ -23,7 +23,7 @@ import org.springframework.security.core.context.SecurityContextHolder;
 /**
  * <code>AuditorAware</code> implementation.
  * 
- * @author David Winterfeldt
+ * @author Himanshu Sharma
  */
 public class AuditorAwareImpl implements AuditorAware<String> {
 

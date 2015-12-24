@@ -26,7 +26,7 @@ import org.springframework.data.jpa.domain.AbstractPersistable;
 /**
  * Abstract auditable entity.
  * 
- * @author David Winterfeldt
+ * @author Himanshu Sharma
  */
 @MappedSuperclass
 @SuppressWarnings("serial")
