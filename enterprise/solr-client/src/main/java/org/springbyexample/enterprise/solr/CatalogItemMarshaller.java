@@ -48,7 +48,7 @@ import org.springframework.stereotype.Component;
 /**
  * Solr <code>CatalogItem</code> Spring OXM marshaller/unmarshaller.
  * 
- * @author David Winterfeldt
+ * @author Ajay Jirati Second testing -- Master
  */
 @Component
 public class CatalogItemMarshaller implements Marshaller, Unmarshaller {

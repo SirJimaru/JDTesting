@@ -20,7 +20,7 @@ package org.springbyexample.enterprise.solr;
 /**
  * Catalog item information.
  * 
- * @author David Winterfeldt
+ * @author Ajay Jirati Second testing -- Master
  */
 public class CatalogItem {
 
