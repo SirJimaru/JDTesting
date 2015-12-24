@@ -27,7 +27,7 @@ import org.hibernate.type.Type;
  * Modified PostgreSQL dialect that works that uses 
  * the default generated sequences for each table (SERIAL column type).
  * 
- * @author David Winterfeldt
+ * @author Ajay Jirati-- Source Tree -- slave
  * 
  * @see    <a href="http://grails.1312388.n4.nabble.com/One-hibernate-sequence-is-used-for-all-Postgres-tables-td1351722.html"/>
  */
