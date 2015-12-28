@@ -40,7 +40,7 @@ import org.springmodules.jcr.JcrConstants;
  * writes out all files into a root directory in the 
  * same hierarchical structure they were found in.
  * 
- * @author David Winterfeldt
+ * @author  Simran Sodhi
  */
 public class JcrContentExporter {
 
