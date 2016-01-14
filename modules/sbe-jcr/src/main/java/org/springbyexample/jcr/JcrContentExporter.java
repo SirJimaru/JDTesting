@@ -41,9 +41,6 @@ import org.springmodules.jcr.JcrConstants;
  * same hierarchical structure they were found in.
  * 
  * @author ----- Action for Confilct
- * @author ----- Action for Confilct
- * @author ----- Action for Confilct** @author ----- Action for Confilct* 
- @author ----- Action for Confilct
  */
 public class JcrContentExporter {
 
