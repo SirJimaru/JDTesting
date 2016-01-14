@@ -24,7 +24,7 @@ import org.springframework.stereotype.Component;
  * Recurses the repository for content nodes and 
  * can.
  * 
- * @author Simran Sodhi
+ * @author David Winterfeldt
  */
 @Component
 public class JcrContentRecurser extends JcrRecurser {
